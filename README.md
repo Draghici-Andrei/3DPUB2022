@@ -2,7 +2,7 @@
 3DPUB2022 Summer School Projects
  
 
-Minions Battle 
+MINIONS BATTLE 
 
 Once upon a time there was a great minion, called TIM, with some strengths and weaknesses, as all minions have.
 After battling all kinds of evils for more than a hundred years, TIM now has the following stats:
@@ -23,7 +23,7 @@ After battling all kinds of evils for more than a hundred years, TIM now has the
 
 
 
-Gameplay 
+GAMEPLAY 
 
 As TIM walks the digital space of Gameloft, he encounters an evil with the following properties:
 
@@ -49,12 +49,12 @@ The damage is subtracted from the defender’s health. An attacker can miss thei
 
 TIM’ skills occur randomly, based on their chances, so take them into account on each turn.
 
-Game over
+GAME OVER
 
  The game ends when one of the minions remains without health or the number of turns reaches 20. The application must output the results each turn: what happened, which skills were used (if any), the damage done, defender’s health left.
 If we have a winner before the maximum number of rounds is reached, he must be declared.
 
-Rules 
+RULES 
 
 Gameloft is a battle land where magic does happen. Still, for this magic to work, you’ll have to follow these rules:
 
@@ -64,7 +64,7 @@ Gameloft is a battle land where magic does happen. Still, for this magic to work
 
    ● Is your code bug-free and tested?
 
-Challenges (optional)
+CHALLENGES (optional)
 
    ●	Add a database in which you can save a battle history. Or a small learning algorithm, where the skills of the minions increase by a random amount after every win, and decrease after every loss.
 
