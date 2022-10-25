@@ -7,19 +7,19 @@ Minions Battle
 Once upon a time there was a great minion, called TIM, with some strengths and weaknesses, as all minions have.
 After battling all kinds of evils for more than a hundred years, TIM now has the following stats:
 
-●	Health: 70 - 100
+   ●	Health: 70 - 100
 
-●	Strength: 70 - 80
+   ●	Strength: 70 - 80
 
-●	Defense: 45 – 55
+   ●	Defense: 45 – 55
 
-●	Speed: 40 – 50
+   ●	Speed: 40 – 50
 
-●	Luck: 10% - 30% (0% means no luck, 100% lucky all the time) Also, he possesses 2 skills:
+   ●	Luck: 10% - 30% (0% means no luck, 100% lucky all the time) Also, he possesses 2 skills:
 
-●	Banana strike: Strike twice while it’s his turn to attack; there’s a 10% chance he’ll use this skill every time he attacks
+   ●	Banana strike: Strike twice while it’s his turn to attack; there’s a 10% chance he’ll use this skill every time he attacks
 
-●	Umbrella Shield: Takes only half of the usual damage when an enemy attacks; there’s a 20% change he’ll use this skill every time he defends
+   ●	Umbrella Shield: Takes only half of the usual damage when an enemy attacks; there’s a 20% change he’ll use this skill every time he defends
 
 
 
@@ -27,15 +27,15 @@ Gameplay
 
 As TIM walks the digital space of Gameloft, he encounters an evil with the following properties:
 
-●	Health: 60 - 90
+   ●	Health: 60 - 90
 
-●	Strength: 60 - 90
+   ●	Strength: 60 - 90
 
-●	Defense: 40 – 60
+   ●	Defense: 40 – 60
 
-●	Speed: 40 – 60
+   ●	Speed: 40 – 60
 
-●	Luck: 25% - 40% 
+   ●	Luck: 25% - 40% 
 
 You’ll have to simulate a battle between TIM and an evil. either at the command line or using a web browser. In every battle, TIM and the evil must be initialized with random properties, within their ranges.
 
@@ -58,18 +58,18 @@ Rules
 
 Gameloft is a battle land where magic does happen. Still, for this magic to work, you’ll have to follow these rules:
 
-● Write code in plain PHP, without any frameworks (you are free to use 3rd parties software)
+   ● Write code in plain PHP, without any frameworks (you are free to use 3rd parties software)
 
-● Make sure your application is decoupled, code reusable and scalable. For example, can a new skill easily be added to our hero?
+   ● Make sure your application is decoupled, code reusable and scalable. For example, can a new skill easily be added to our hero?
 
-● Is your code bug-free and tested?
+   ● Is your code bug-free and tested?
 
 Challenges (optional)
 
-●	Add a database in which you can save a battle history. Or a small learning algorithm, where the skills of the minions increase by a random amount after every win, and decrease after every loss.
+   ●	Add a database in which you can save a battle history. Or a small learning algorithm, where the skills of the minions increase by a random amount after every win, and decrease after every loss.
 
-●	Initialize battles with multiple minions / foes.
+   ●	Initialize battles with multiple minions / foes.
 
-●	Use an external api to influence the battle. For example you can give advantages / disadvantages based on the weather (you can use this api:  https://www.openweathermap.org/ ).
+   ●	Use an external api to influence the battle. For example you can give advantages / disadvantages based on the weather (you can use this api:  https://www.openweathermap.org/ ).
 
-●	Add a visual interface (static or dynamic)
+   ●	Add a visual interface (static or dynamic)
