@@ -55,13 +55,21 @@ Game over
 If we have a winner before the maximum number of rounds is reached, he must be declared.
 
 Rules 
+
 Gameloft is a battle land where magic does happen. Still, for this magic to work, you’ll have to follow these rules:
+
 ● Write code in plain PHP, without any frameworks (you are free to use 3rd parties software)
+
 ● Make sure your application is decoupled, code reusable and scalable. For example, can a new skill easily be added to our hero?
+
 ● Is your code bug-free and tested?
 
 Challenges (optional)
+
 ●	Add a database in which you can save a battle history. Or a small learning algorithm, where the skills of the minions increase by a random amount after every win, and decrease after every loss.
+
 ●	Initialize battles with multiple minions / foes.
+
 ●	Use an external api to influence the battle. For example you can give advantages / disadvantages based on the weather (you can use this api:  https://www.openweathermap.org/ ).
+
 ●	Add a visual interface (static or dynamic)
