@@ -26,18 +26,27 @@ After battling all kinds of evils for more than a hundred years, TIM now has the
 Gameplay 
 
 As TIM walks the digital space of Gameloft, he encounters an evil with the following properties:
+
 ●	Health: 60 - 90
+
 ●	Strength: 60 - 90
+
 ●	Defense: 40 – 60
+
 ●	Speed: 40 – 60
+
 ●	Luck: 25% - 40% 
+
 You’ll have to simulate a battle between TIM and an evil. either at the command line or using a web browser. In every battle, TIM and the evil must be initialized with random properties, within their ranges.
+
 The first attack is done by the minion with the higher speed. If both minions have the same speed, then the attack is carried on by the minion with the highest luck. After an attack, the minions switch roles: the attacker now defends and the defender now attacks.
-e damage done by the attacker is calculated with the following formula:Th
+
+The damage done by the attacker is calculated with the following formula:
 
 Damage = Attacker strength – Defender defense
 
 The damage is subtracted from the defender’s health. An attacker can miss their hit and do no damage if the defender gets lucky that turn.
+
 TIM’ skills occur randomly, based on their chances, so take them into account on each turn.
 
 Game over
