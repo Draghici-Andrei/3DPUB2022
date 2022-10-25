@@ -1,0 +1,102 @@
+body {
+    color: yellow;
+    background-color: grey;
+    overflow-x: hidden;
+}
+
+/*-----------Navigation Bar-----------*/
+
+#navbar {
+    position: fixed;
+    z-index: 3;
+}
+
+#navbar a {
+    color: yellow;
+}
+
+
+#story {
+    color: black;
+}
+
+/*------------------------------------*/
+
+
+
+/*-------------Start Page Components---------------*/
+
+#titlu {
+    position: absolute;
+    top: 10vh;
+    font-size: 60px;
+    font-weight: 600;
+    text-align: center;
+
+}
+
+#start {
+    position: absolute;
+    top: 50vh;
+    z-index: 2;
+}
+
+
+#m-tower {
+    height: 400px;
+    width: 200px;
+    z-index: 1;
+}
+
+#picture1 {
+    position: absolute;
+    top: 30vh;
+}
+
+#picture2 {
+    position: absolute;
+    top: 30vh;
+    z-index: 1;
+}
+
+#blaster {
+    height: 400px;
+    width: 300px;
+}
+
+/*------------------------------------*/
+
+
+#playground {
+    position: absolute;
+    top: 100vh;
+    height: 100vh;
+    background-color: white;
+    margin-top: 20px;
+    color:black;
+}
+
+#playground ul li {
+    text-align: center;
+    color: yellow;
+}
+
+.card-title {
+    text-align: center;
+}
+
+#control_menu {
+    position: absolute;
+    top: 190vh;
+}
+
+#control_menu h2 {
+    text-align: center;
+}
+
+#actual_playground {
+    margin-top: 70px;
+}
+
+
+
