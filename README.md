@@ -6,9 +6,12 @@ Minions Battle
 
 Once upon a time there was a great minion, called TIM, with some strengths and weaknesses, as all minions have.
 After battling all kinds of evils for more than a hundred years, TIM now has the following stats:
+
 ●	Health: 70 - 100
+
 ●	Strength: 70 - 80
 ●	Defense: 45 – 55
+
 ●	Speed: 40 – 50
 ●	Luck: 10% - 30% (0% means no luck, 100% lucky all the time) Also, he possesses 2 skills:
 ●	Banana strike: Strike twice while it’s his turn to attack; there’s a 10% chance he’ll use this skill every time he attacks
