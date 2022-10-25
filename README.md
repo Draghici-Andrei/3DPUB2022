@@ -1,5 +1,5 @@
 # 3DPUB2022 Minions Battle Project
-3DPUB2022 Summer School Projects
+3DPUB2022 Minions Battle Project
  
 
 MINIONS BATTLE 
